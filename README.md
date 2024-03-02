@@ -1,0 +1,2 @@
+# qubic
+Artificial intellegence
